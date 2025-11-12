@@ -202,7 +202,6 @@ Din cate putem observa, a functionat! Verificarea IP-ului de iesire `37.114.50.2
 
 # II. Metoda lantului creat de noi.
 
-### 1. Cautam proxy-uri gratuite.
 Pentru a crea un lant nou de proxy-uri, o sa cautam cateva servicii gratuite de proxy-uri. Am ales proxy-uri de tip SOCKS4 furnizate de site-ul [spys.one](https://spys.one) (sunt o multime de alte site-uri ce furnizeaza proxy-uri gratuit) si apoi le-am verificat utilizand checker-ul online [hide.mn](https://hide.mn/en/proxy-checker/).
 
 
